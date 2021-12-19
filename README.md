@@ -1,5 +1,5 @@
-I like vim.
-<!--
+<div align="center">
+ <!--
 **258204/258204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=258204&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
  -->
+
+
+![image](https://user-images.githubusercontent.com/71364336/146681888-db1e9f79-1b2d-4131-af14-592f5f30b6d8.png)
+
+My interests include Linux, CI/CD, and computational EM
+ 
+</div>
