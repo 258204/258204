@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 
 ![image](https://user-images.githubusercontent.com/71364336/146681888-db1e9f79-1b2d-4131-af14-592f5f30b6d8.png)
 
-My interests include Linux, CI/CD, and computational EM
  
 </div>
